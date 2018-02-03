@@ -55,7 +55,7 @@
     "babel-preset-es2015-node6": "^0.4.0",
     "babili": "^0.1.0",
     "cross-env": "^5.0.0",
-    "eslint": "3.17.0",
+    "eslint": "4.17.0",
     "eslint-config-standard": "10.2.1",
     "eslint-plugin-promise": "3.6.0",
     "eslint-plugin-standard": "2.2.0",
